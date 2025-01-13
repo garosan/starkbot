@@ -1,9 +1,10 @@
 import "./App.css";
+import Portfolio from "./Portfolio";
 
 function App() {
   return (
     <>
-      <h1>🤖 Welcome to StarkBot</h1>
+      <Portfolio />
     </>
   );
 }
