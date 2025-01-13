@@ -1,3 +1,3 @@
-# 🤖 StarkBot AI Portfolio Manager 💼💸
+# 🤖 StarkBot: AI Portfolio Manager 💼💸
 
 Welcome to the StarkBot AI Portfolio Manager!
