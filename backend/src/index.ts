@@ -5,6 +5,7 @@ import portfolioRoutes from "./routes/portfolio";
 dotenv.config();
 
 const app = express();
+export { app };
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());

@@ -7,6 +7,9 @@ router.get("/", async (req, res) => {
   const portfolio = [
     { token: "ETH", balance: 10, valueUSD: 15000 },
     { token: "DAI", balance: 100, valueUSD: 100 },
+    { token: "USDT", balance: 1000, valueUSD: 1000 },
+    { token: "BTC", balance: 0.03, valueUSD: 2827 },
+    { token: "DOGE", balance: 332, valueUSD: 110 },
   ];
   res.json(portfolio);
 });
